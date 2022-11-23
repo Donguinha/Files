@@ -1,0 +1,15 @@
+C:\code\FilesTest\FilesTest\bin\Debug\net6.0\FilesTest.exe
+C:\code\FilesTest\FilesTest\bin\Debug\net6.0\FilesTest.deps.json
+C:\code\FilesTest\FilesTest\bin\Debug\net6.0\FilesTest.runtimeconfig.json
+C:\code\FilesTest\FilesTest\bin\Debug\net6.0\FilesTest.dll
+C:\code\FilesTest\FilesTest\bin\Debug\net6.0\FilesTest.pdb
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.csproj.AssemblyReference.cache
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.AssemblyInfoInputs.cache
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.AssemblyInfo.cs
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.csproj.CoreCompileInputs.cache
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.dll
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\refint\FilesTest.dll
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.pdb
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\FilesTest.genruntimeconfig.cache
+C:\code\FilesTest\FilesTest\obj\Debug\net6.0\ref\FilesTest.dll
